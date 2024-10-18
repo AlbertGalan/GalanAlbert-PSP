@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 
 public class ExercicisMultiproces2 {
-    static final String dirPath = "C:\\Users\\Albert\\IdeaProjects\\AsignaturaPSP\\GalanAlbert-PSP\\Exercici2\\src";
+    static final String dirPath = "C:\\Users\\Albert\\IdeaProjects\\AsignaturaPSP\\GalanAlbert-PSP\\Exercici2_PSP\\src";
     static final String[] command = {
             "java",
             "ExercicisMultiproces2_ModificarString.java"
