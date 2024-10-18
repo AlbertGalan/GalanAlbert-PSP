@@ -1,25 +1,17 @@
 import java.util.Scanner;
 
-public class ExercicisMultiproces1_ParellSenar
-{
+public class ExercicisMultiproces1_ParellSenar {
+    public boolean parell(int num) {
+        return (num % 2 == 0);
+    }
+
     public static void main(String[] args) {
-
-        Scanner scanner = new Scanner(System.in);
-
-        try {
-            System.out.println("Introdueix un nombre: ");
-            int num = scanner.nextInt();
-            if (num % 2 == 0)
-            {
-                System.out.println("El nombre" + " " + num + " " + "es parell");
-            } else {
-                System.out.println("El nombre" + " " + num + " " + "es senar");
-            }
-        } catch (java.util.InputMismatchException e)
-        {
-            System.out.println("Introdueix un nombre vàlid.");
+        ExercicisMultiproces1_ParellSenar s = new ExercicisMultiproces1_ParellSenar();
+        int num = Integer.parseInt(args[0]);
+        if (s.parell(num)){
+            System.out.println("Parell");
+        }else {
+            System.out.println("Senar");
         }
-
-        scanner.close();
     }
 }
