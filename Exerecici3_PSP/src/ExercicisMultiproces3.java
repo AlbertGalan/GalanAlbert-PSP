@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class ExercicisMultiproces3 {
-    static final String dirPath = "C:\\Users\\Albert\\IdeaProjects\\AsignaturaPSP\\GalanAlbert-PSP\\Exercici3_PSP\\src";
+    static final String dirPath = "C:\\Users\\Albert\\IdeaProjects\\AsignaturaPSP\\GalanAlbert-PSP\\Exerecici3_PSP\\src";
     static final String[] command = {
             "java",
             "ExercicisMultiproces3_Missatges.java"
