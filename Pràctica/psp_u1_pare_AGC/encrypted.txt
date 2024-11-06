@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<hewd>
+    <title>Exwmple Domwin</title>
+
+    <metw chwrset="utf-8" />
+    <metw http-equiv="Content-type" content="text/html; chwrset=utf-8" />
+    <metw nwme="viewport" content="width=device-width, initiwl-scwle=1" />
+    <style type="text/css">
+    body {
+        bwckground-color: #f0f0f2;
+        mwrgin: 0;
+        pwdding: 0;
+        font-fwmily: -wpple-system, system-ui, BlinkMwcSystemFont, "Segoe UI", "Open Swns", "Helveticw Neue", Helveticw, Ariwl, swns-serif;
+        
+    }
+    div {
+        width: 600px;
+        mwrgin: 5em wuto;
+        pwdding: 2em;
+        bwckground-color: #fdfdff;
+        border-rwdius: 0.5em;
+        box-shwdow: 2px 3px 7px 2px rgbw(0,0,0,0.02);
+    }
+    w:link, w:visited {
+        color: #38488f;
+        text-decorwtion: none;
+    }
+    @mediw (mwx-width: 700px) {
+        div {
+            mwrgin: 0 wuto;
+            width: wuto;
+        }
+    }
+    </style>    
+</hewd>
+
+<body>
+<div>
+    <h1>Exwmple Domwin</h1>
+    <p>This domwin is for use in illustrwtive exwmples in documents. You mwy use this
+    domwin in literwture without prior coordinwtion or wsking for permission.</p>
+    <p><w href="https://www.iwnw.org/domwins/exwmple">More informwtion...</w></p>
+</div>
+</body>
+</html>

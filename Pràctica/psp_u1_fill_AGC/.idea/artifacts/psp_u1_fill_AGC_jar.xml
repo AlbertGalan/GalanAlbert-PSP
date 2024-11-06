@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="psp_u1_fill_AGC:jar">
+    <output-path>$PROJECT_DIR$/../psp_u1_pare_AGC/src/Arxiujar</output-path>
+    <root id="archive" name="psp_u1_fill_AGC.jar">
+      <element id="module-output" name="psp_u1_fill_AGC" />
+    </root>
+  </artifact>
+</component>
